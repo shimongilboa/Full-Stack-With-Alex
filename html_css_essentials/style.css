@@ -1,0 +1,26 @@
+body{
+    direction:rtl;
+}
+
+img{
+    width: 50%;
+    margin:0 auto;
+}
+
+h1, h2, h3{
+    color: rgb(114,121,20);
+}
+
+ul{
+    width: 20vw;
+}
+
+ul li{
+    background-color: skyblue;
+    list-style-type: none;
+    border: 1px solid rgb(114,121,20);
+    border-radius:7px;
+    margin-top: 10px;
+    text-align: center;
+    padding: 10px;
+}
